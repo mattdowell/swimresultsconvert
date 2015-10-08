@@ -1,0 +1,15 @@
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\SwimMeetResultsConverter\SwimMeetResultsConverter\bin\Debug\SwimMeetResultsConverter.exe
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\SwimMeetResultsConverter\SwimMeetResultsConverter\bin\Debug\SwimMeetResultsConverter.pdb
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\SwimMeetResultsConverter\SwimMeetResultsConverter\bin\Debug\SwimMeetResultsConverter.xml
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\SwimMeetResultsConverter\SwimMeetResultsConverter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\SwimMeetResultsConverter\SwimMeetResultsConverter\obj\x86\Debug\WindowsApplication1.mainForm.resources
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\SwimMeetResultsConverter\SwimMeetResultsConverter\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\SwimMeetResultsConverter\SwimMeetResultsConverter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\SwimMeetResultsConverter\SwimMeetResultsConverter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\SwimMeetResultsConverter\SwimMeetResultsConverter\obj\x86\Debug\SwimMeetResultsConverter.exe
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\SwimMeetResultsConverter\SwimMeetResultsConverter\obj\x86\Debug\SwimMeetResultsConverter.xml
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\SwimMeetResultsConverter\SwimMeetResultsConverter\obj\x86\Debug\SwimMeetResultsConverter.pdb
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\SwimMeetResultsConverter\SwimMeetResultsConverter\bin\Debug\SwimMeetResultsConverter.exe.manifest
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\SwimMeetResultsConverter\SwimMeetResultsConverter\bin\Debug\SwimMeetResultsConverter.application
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\SwimMeetResultsConverter\SwimMeetResultsConverter\obj\x86\Debug\SwimMeetResultsConverter.exe.manifest
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\SwimMeetResultsConverter\SwimMeetResultsConverter\obj\x86\Debug\SwimMeetResultsConverter.application
